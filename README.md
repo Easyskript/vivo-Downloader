@@ -1,7 +1,7 @@
 Achtung, ihr dürft nur euren eigenen Content Downloads!!!
 Dieses Programm darf nicht für Urheberrechts Verletzungen genutzt werden!!
 starte die py Datei, am besten die fertige oder kopiere denn code in ein program,
-das python skripte ausfühten kann.
+das python skripte starten kann.
 
 Copyright (c) 2019 Easyskript
 
