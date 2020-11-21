@@ -1,4 +1,5 @@
-
+#-Achtung, ihr dürft nur euren eigenen Content Downloads!!!
+#-Dieses Programm darf nicht für Urheberrechts Verletzungen genutzt werden!!
 
 import os
 import webbrowser
