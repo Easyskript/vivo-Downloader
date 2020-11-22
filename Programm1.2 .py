@@ -1,9 +1,5 @@
 
 #only for JupyterNotebook(anaconda3)
-#put the  chromedriver exe in the same folder !!!!!!!
-#see your chrome version: https://www.whatismybrowser.com/detect/what-version-of-chrome-do-i-have
-#Download your versions chromedriver here: https://chromedriver.chromium.org/downloads
-#-you need python!
 #-Attention, you are only allowed to download your own content !!!
 #-This program may not be used for copyright infringement !!
 #---------------------------------------------------------------------------
