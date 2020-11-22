@@ -6,7 +6,7 @@
 #-Attention, you are only allowed to download your own content !!!
 #-This program may not be used for copyright infringement !!
 #---------------------------------------------------------------------------
-get_ipython().system('pip install selenium')
+!pip install selenium
 import os
 import webbrowser
 import selenium
