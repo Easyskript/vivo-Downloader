@@ -24,9 +24,6 @@ def load(url):
     url = url.strip("https://vivo.sx/")
     finaleseite = (urlbasic + url)
     webbrowser.open(finaleseite)
-    PATH = "./chromedriver.exe"
-    driver = webdriver.Chrome(PATH)
-    driver.get(finaleseite)
     time.sleep(2)
     link = driver.find_element_by_xpath('(//SPAN)[36]')
     link.click()
